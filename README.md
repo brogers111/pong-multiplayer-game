@@ -24,6 +24,8 @@ To view the application, run <code>npm install</code>
 
 Then run <code>npm start</code>
 
+Then open up two windows in your browser to enter two users into the same room and begin the game.
+
 ## Future Improvements
 
 - Keep track of games won by user
