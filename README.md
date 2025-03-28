@@ -6,6 +6,8 @@ This web app uses Canvas, Socket.io, NameSpaces, and Rooms to allow users to pla
 
 ## Project Design
 
+![Screenshot 2025-03-27 at 9 53 01 PM](https://github.com/user-attachments/assets/c3e25ddf-5d81-431b-b55e-30deb2d98579)
+
 ## Tech Stack
 
 - Canvas
